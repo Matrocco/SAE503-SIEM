@@ -11,5 +11,3 @@
 | Poste / serveur Linux | Ubuntu | Cible supervisée (agent SIEM installé) |
 | Poste / serveur Windows | Windows 10/11 ou Server | Cible supervisée (agent SIEM + Sysmon) |
 ```eof
-
-Voilà, le texte original a été repris tel quel avec une liste à puces pour les consignes et un tableau formaté en Markdown pour la répartition des machines ! N'hésitez pas si vous avez besoin d'autres ajustements.
